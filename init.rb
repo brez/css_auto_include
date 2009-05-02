@@ -1,1 +1,1 @@
-require 'javascript_auto_include'
+require 'css_auto_include'
